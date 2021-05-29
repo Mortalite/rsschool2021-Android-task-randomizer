@@ -1,5 +1,7 @@
 # rsschool-Android-2021-task-randomizer
 
+Explanation: https://youtu.be/ZNRAhOBWbDg
+
 :point_up: В первом практическом задании мы создадим рандомайзер, он же - генератор случайных чисел.
 
 
